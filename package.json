@@ -2,6 +2,8 @@
   "name": "inf",
   "version": "0.1.0",
   "description": "Javascript object with an \"infinite\" number of properties -- a.b.c.d.e...",
+  "homepage": "https://b-gran.github.io/inf",
+
   "devDependencies": {
     "react-scripts": "0.5.1"
   },
